@@ -1,0 +1,26 @@
+Nome do Jogo Possíveis Títulos: Uma Aventura Joinvillense -- Fritz, A Jornada/Lenda -- Diverse Park 
+
+ Andre, Ezio, Heloisa, Matheus, Ronaldo, William. 
+
+Versão 1.0 Sumário --fazer no final Visão Geral Temática e Classificação O jogo será disponibilizado como livre para todos os públicos 
+com a temática de aventura voltada para a educação dos jogadores no gênero side scrolling.
+  Mecânicas de Jogabilidade O jogo envolverá a ação de disparos, pulos, movimentação do personagem e interação com inimigos.
+Plataforma Escopo do Projeto Prazo e Custos O projeto não possui fins lucrativos pois trata-se de um trabalho de faculdade e a equipe
+possui um prazo de 5 meses para elaboração, programação e entrega no qual ao fim, poderá ser escolhido para ser apresentado em uma instituição
+educacional. --inserir programa utilizado Equipe -Programador, designer, etc 
+Referências O projeto tem como inspiração os jogos do Mario Bros da Nintendo, mais especificamente o Super Mario World de 1990. Esta ideia 
+partiu do princípio de que a jogabilidade é intuitiva para quem não conhece o formato e para quem já conhece, está familiarizado com o estilo.
+Descrição Geral do Projeto Interações que envolvem a eliminação de ameaças do cenário com o foco na conscientização ambiental. Além disso, o
+game envolverá a questão de compreender os impactos que o desmatamento causa no planeta e trazendo ao jogador "recompensas" para cada boa ação
+realizada. O objetivo principal será salvar Joinville dos inimigos História e Jogabilidade A história contará com 3 personagens: 
+Fritz, as Capivaras, lixos (Zibels). O personagem Fritz vive no Rio Cachoeira (conhecido em Joinville pela poluição eminente) juntamente com
+suas amigas Capivaras. Quando certo dia, ao passear no Centro, presencia uma enchente. Ao mesmo tempo, observa os Zibels entupindo os bueiros
+da cidade. Essa aventura começa com o Fritz organizando sua jornada para salvar a fauna e flora. Sobre as Capivaras, o arco do(s) personagem(ns)
+será em torno de auxiliar o protagonista no seu objetivo pois, todos vivem no mesmo local e são amigas do Fritz onde também, poderão oferecer
+dicas durante a gameplay. Os Zibels foram invadindo lentamente a cidade com a presença dos humanos também. Com isso, bueiros, rios, ruas,
+galerias subterrâneas foram sendo aniquiladas pelo devastação do lixo. De forma geral, o ambiente do game será em natureza com algumas partes 
+na cidade. O objetivo é que para cada boa ação realizada, o jogador seja recompensado com moedas (points) no qual ao atingir 50, será
+recompensado com uma vida. Ao final de cada fase, haverá um boss no qual terá que ser derrotado para prosseguir para a próxima fase. 
+Anotações: Inventei esse nome porque pensei que só “lixo” fica sem sal rsrs. Quem tiver ideia melhor pode mudar. Zibel é lixo em Maltês kkk.
+Não sei exatamente o boss, mas enfim. Sobre as recompensas, foi pensado de aleatoriamente. Se alguém quiser verificar algo além ou manter assim,
+a vontade. GDD: 1.3
