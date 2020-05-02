@@ -51,12 +51,46 @@ Inimigos
 Seria interessante criar uma fase em um sistema se tratamento de água ou de esgoto e o caminho para chegar até essa fase sugiro um duto como do Mario Bros.
 
 
-Moral da história
+                                                 Moral da história
 
  quem é Fritz? Fritz é uma homenagem ao Jcaré encontrado no rio cachoeira em Joinville-SC.
  na verdade Fritz somos cada um de nós que devemos contribuir para a preservação do meio ambiente enfrentando desafios representados por inimigos com suas armas armadilhas e 
 poluição ambiental.
 
+                                 Comentários sobre inimigos do Fritz
+
+o caçador homem branco, sua arma e um rifle obs: haverá restrição quanto a aparência do rifle e quanto ao projetil a ser lançado tendo em vista que este jogo 
+tem criança o principal público).
+
+O homem Índio que também e um caçador porém, suas armas são: arco e flecha.  
+
+                          ações nas fases
+dento da água o Fritz a fim de salvar o rio Cahoeira e seus amiguinhos, deve retirar o lixo do rio, entre os seus obstaculos dentro do rio está desviar de apões 
+e outros inimigos que vier a ser criado.
+
+fora da agua tem que fazer a coleta seletiva do lixo e passar pelos obstáculos, entre eles o homem branco e o Índio
+                         
+
+
+
+                      Comentários de como o Fritz ganha ou perde vida e pontuação
+
+O Fritz não pode mergulhar mais que tantos segundos sem subir a superfície para pegar folego, quando o Fritz perde o folego ele fica vermelho 
+se o Fritz morrer o jogo continua a partir da fase tal
+
+
+
+                     Comentários sobre efeitos sonoros
+
+na fase em que o esgoto desagua no rio devido um interrupção no sistema, toca a música tal com barulho de água caindo dentro do rio e quando concertado a interrupção
+o barulho de água caindo cessa
+quando uma flecha for lançada tocará a música tal
+se o Fritz for atingido por uma flecha, fora da água ele dará um grito tocando um trecho da música tal encontrada no site tal de musicas para games xyz.
+Fritz, ao ser atingido por qualquer tipo de arma ficará imune e piscando por 5 segundos, se por acaso quando ele for atingido e não restar mais nenhuma vida
+ele dará o grito tal e fim do jogo
+quando a fase do jogo é dentro d'agua em remanso a música de fundo é tal e em corredeira é tal 
+na fase tal que acontece fora da agua, a musica de fundo é tal.
+    
 
  
  
