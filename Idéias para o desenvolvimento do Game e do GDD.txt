@@ -43,10 +43,15 @@ Em uma das fases por terra em que o Fritz coletaria o lixo as margens do rio e c
 o ato heroico de salvar uma capivara presa em uma armadilha suspensa em um galho de arvore, armada por caçador, e pronto; O Fritz já estaria pronto para uma nova 
 jornada. Lembrando que o desafio não seria fácil tendo que desviar de tiros disparados por caçador e não cair em armadilhas armada pelos mesmos 
 
+                                             todos personagens 
 
-Inimigos
- homem índio,
- homem branco.
+Fritz - personagem principal, Capivara, homem índio, homem branco, Mosca, Barata, Rato, Mosquito da Dengue.
+
+                                                Inimigos
+
+                       homem índio, homem branco, Mosca, Barata, Rato,  Mosquito da Dengue.
+
+
 
 Seria interessante criar uma fase em um sistema se tratamento de água ou de esgoto e o caminho para chegar até essa fase sugiro um duto como do Mario Bros.
 
