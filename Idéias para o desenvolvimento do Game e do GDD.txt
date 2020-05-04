@@ -14,6 +14,29 @@ com tudo isso estaremos somando ponto para o objetivo principal que é salvar o r
 
 na fase final devemos mostrar todos os objetivos alcançados com a ajuda do Fritz!
 
+
+Bonus Point
+
+criar tabelas ou gráficos mostrando por exemplo as condições da àgua
+
+
+apresentar o estado atual o objetivo que deve ser alcançado e o objetivo alcançado
+
+Cheiro
+grau de transparência
+temperatura
+viscosidade
+PH
+nivel de oxigênio
+nivel de gás Carbônico
+nivel de poluêntes
+bactérias
+metais pesados 
+
+conforme as contribuições do Fritz, isso acumula pontos que interfere nos graficos a mudança de fase se da por chegar e passar do ponto final
+
+
+
 listar aqui todos os benefícios alcançados:
 
 contribuição para fonte de energia renovável transformando o lixo orgânico em energia elétrica e gás, e deixou de inundar x hectares de terra ou de 
@@ -61,6 +84,8 @@ Seria interessante criar uma fase em um sistema se tratamento de água ou de esgo
                                                clean land Stage-1
                                              water treatment Stage-1
                                             sewage treatment Stage-1
+                                             estrada de ferro
+                                               Parque ecolgico
 
           Obs:com a idéia dos estágios fica mais fácil para que agente possa imaginar o mapa do jogo
 
