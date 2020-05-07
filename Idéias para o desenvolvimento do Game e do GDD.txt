@@ -70,11 +70,17 @@ jornada. Lembrando que o desafio não seria fácil tendo que desviar de tiros disp
 
                                              todos personagens 
 
-Fritz - personagem principal, Capivara, homem índio, homem branco, Mosca, Barata, Rato, Mosquito da Dengue.
+Fritz - personagem principal, Capivara, peixe, pato, garça, homem índio, homem branco, Mosca, Barata, Rato, Mosquito da Dengue.
 
                                                 Inimigos
 
                        homem índio, homem branco, Mosca, Barata, Rato,  Mosquito da Dengue.
+
+inicio do jogo poderia ser o Fritz saindo de casa em um trem de ferro em busca de uma jornada!
+
+mais detalhes Pessoal só uma ideia, porque não sei o quanto da pra introduzir uma ideia desta em um jogo!  mas seria muito interessante o player inicial do jogo o Fritz 
+pulando na parte dianteira do trem de ferro que em dado momento estaria parado e quando o Fritz subisse seria estartado o jogo o e vídeo até que a Câmera que estava no
+ momento filmando a sua dianteira estivesse filmando uma parte de sua traseira com destino A jornada! https://www.youtube.com/watch?v=ncbl2xmSX18  
 
 
 
@@ -87,8 +93,11 @@ Seria interessante criar uma fase em um sistema se tratamento de água ou de esgo
                                              water treatment Stage-1
                                             sewage treatment Stage-1
                                              estrada de ferro
-                                               Parque ecolgico
+                                               Parque ecológico
                                                etapa na chuva
+                                                 
+                                                 lookout
+
 
           Obs:com a idéia dos estágios fica mais fácil para que agente possa imaginar o mapa do jogo
 
@@ -117,8 +126,12 @@ fora da agua tem que fazer a coleta seletiva do lixo e passar pelos obstáculos, 
 
                       Comentários de como o Fritz ganha ou perde vida e pontuação
 
-O Fritz não pode mergulhar mais que tantos segundos sem subir a superfície para pegar folego, quando o Fritz perde o folego ele fica vermelho 
-se o Fritz morrer o jogo continua a partir da fase tal
+O Fritz não pode mergulhar mais que tantos segundos sem subir a superfície para pegar folego, quando o Fritz perde o folego ele fica vermelho e senão buscar folego em no max x segundos
+o Fritz perde uma vida, outra forma de perder vida é se o Ftritz cair em um abismo, dai e se isso acontecer ele volta em tal parte da fase com menos uma vida, o Fritz
+se o Fritz for alvejado por uma flecha ou munição x vezes ele perde uma vida, o Friz possui 3 vidas por fase
+podendo conquistar até mais 2 vidas ao longo do percuso na fase;
+no incio do jogo ou na conquista de uma fase o Fritz volta com o numero x de vidas 
+se o Fritz morrer e não houver mais nenhua vida continue o jogo volta para da fase tal ou parte tal da fase
 
 
 
